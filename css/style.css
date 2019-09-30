@@ -334,7 +334,7 @@
 .copyrightSec {
     background-color: #000;
     color: #fff;
-    padding: 30px 5px;
+    padding: 20px 5px;
 }
 
 #navigation{
@@ -428,6 +428,37 @@
 	color: #fff;
 	font-weight: 200;
 	
+}
+
+.socialMediaSec{
+	padding-bottom: 20px;
+}
+
+.socialMediaSec p {
+    font-size: 26px;
+    color: rgb(0, 0, 0);
+    padding: 30px 5px;
+}
+
+.social-icons {
+    text-align: center;
+}
+
+.social-icons li {
+    display:inline-block;
+    list-style-type:none;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+}
+
+.social-icons li a {
+    border-bottom: none;
+}
+
+.social-icons li img {
+    width:70px;
+    height:70px;
+    margin-right: 20px;	
 }
 
 .loader-finish{
